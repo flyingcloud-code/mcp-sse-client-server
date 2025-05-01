@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# ingore the cursor rule files and local docs
+.cursor/**
+docs/**
+
 # C extensions
 *.so
 
